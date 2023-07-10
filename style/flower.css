@@ -1,0 +1,9 @@
+.header{
+    background-color: pink;
+}
+.continer{
+    display: flex;
+}
+.continer .pic{
+    width: 500px;
+}
