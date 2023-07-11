@@ -74,6 +74,7 @@ height: 4867px;
     margin-bottom: 15px;
 }
 .pic continer{
+    display: flex;
     align-items: center;
-   margin-left: 300px;
+}
 
