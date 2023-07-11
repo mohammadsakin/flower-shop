@@ -26,22 +26,26 @@ display: flex;
 width: 708px;
 margin-bottom: 20px;
 }
-.new part {
-    padding:150px;
-     border-radius: 8px;
-background: rgba(229, 84, 115, 0.05);
-text-align: center;
-margin-top: 130px;
+.all{
+    padding: 250px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.123);
+    align-items: center;
+    margin-top: 100px;
+    display: flex;
 
 }
+.change{
+    color: palevioletred;
+}
 .new title{color: #272727;
+    font-family: Lato;
     font-size: 40px;
     font-style: normal;
     font-weight: 800;
+    line-height: normal;
     
-}
-.change{
-    color:palevioletred;
+
 }
 .new p{
     color: rgba(39, 39, 39, 0.60);
@@ -49,4 +53,14 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+}
+.btn{
+    border-radius: 8px;
+background: #E55473; padding: 15px 25px;
+border: 0px;
+}
+.new pic{
+    width: 1920px;
+height: 4867px;
+
 }
