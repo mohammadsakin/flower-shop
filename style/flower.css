@@ -33,6 +33,7 @@ margin-bottom: 20px;
     align-items: center;
     margin-top: 100px;
     display: flex;
+    gap: 100px;
 
 }
 .change{
@@ -64,3 +65,15 @@ border: 0px;
 height: 4867px;
 
 }
+.head{
+    text-align: center;
+    margin-top: 50px;
+}
+.para{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.pic continer{
+    align-items: center;
+   margin-left: 300px;
+
